@@ -1,4 +1,4 @@
-# getting_data_project
+# getting_data_project: PRACTICE VERSION
 Course Project for Getting and Cleaning Data: Human Activity Recognition Using Smartphones Data Set - Tidy Version
 # Getting and Cleaning Data Course Project README
 
